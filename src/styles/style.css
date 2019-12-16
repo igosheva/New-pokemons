@@ -1,5 +1,2 @@
 @import url('./vendor/normalize.css');
-
-body {
-  background-color: #000;
-}
+@import url('./blocks/style.css');
