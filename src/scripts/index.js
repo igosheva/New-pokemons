@@ -1,5 +1,5 @@
-import {API} from "./modules/api";
-import {Card} from "./modules/card";
+import { API } from './modules/api';
+import { Card } from './modules/card';
 
 const cardList = document.querySelector('#card-list');
 
